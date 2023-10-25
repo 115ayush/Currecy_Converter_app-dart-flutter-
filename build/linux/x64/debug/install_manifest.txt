@@ -1,0 +1,13 @@
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/currency_converter
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

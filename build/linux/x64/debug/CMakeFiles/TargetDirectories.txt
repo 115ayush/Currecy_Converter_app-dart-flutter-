@@ -1,0 +1,14 @@
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/currency_converter.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/install.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/ayush/Desktop/currency_converter/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
